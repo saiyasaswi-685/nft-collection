@@ -169,17 +169,6 @@ The test suite validates:
 
 All tests pass successfully.
 
----
-
-# 📦 Tools & Technologies Used
-
-- Solidity  
-- Hardhat  
-- OpenZeppelin  
-- Docker  
-- Node.js  
-- Mocha / Chai  
-- Git & GitHub  
 
 
 
