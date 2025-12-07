@@ -181,18 +181,7 @@ All tests pass successfully.
 - Mocha / Chai  
 - Git & GitHub  
 
----
 
-# 📝 Final Notes
 
-This project fully satisfies the requirements of the Partnr NFT Smart Contract task:
 
-- ERC-721 compliant contract  
-- Strong access control  
-- Metadata implementation  
-- Full automated test suite  
-- Dockerized execution environment  
-- Professional documentation  
-
-Ready for submission.
 
